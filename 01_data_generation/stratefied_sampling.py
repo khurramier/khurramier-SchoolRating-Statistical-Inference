@@ -1,7 +1,6 @@
 # Import required libraries
 import pandas as pd
 import numpy as np
-from scipy import stats
  
 # Set random seed for reproducibility
 np.random.seed(42)
@@ -82,8 +81,8 @@ print('CONTROL BRANCHES: SAMPLE')
 print(control_sample.head())
 # Update the branches dataframe with column study_group
 
-#make dataframe of 'branches not selected' in exp/cont groups
-df_remaining_rows_after_sampling = available_rows_4_control_sample[~available_rows_4_control_sample['branch_code'].isin(control_sample['branch_code'])]
+# Make dataframe of 'branches not selected' in exp/cont groups
+df_remaining_rows_after_sampling = available_rows_4_control_sample[~available_rows_4_control_sample['branch_code'].isin(control_sample['branch_code'])].copy()
 
 # adding study_group columns to experimental/control sample and 'branches not selected'
 experimental_sample['study_group'] = 'experimental'
@@ -96,3 +95,6 @@ print('*' * 70)
 print(branches_with_study_groups.tail())
 print('Status of')
 print(branches_with_study_groups['study_group'].value_counts())
+
+# Save as csv file 
+branches_with_study_groups.to_csv('02_data/branches_with_study_groups.csv', index=False)

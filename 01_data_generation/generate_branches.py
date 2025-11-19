@@ -49,4 +49,4 @@ print(branches_df.head())
 print(f"\nLocation distribution:")
 print(branches_df['location'].value_counts())
 # Saving the file in csv format
-branches_df.to_csv(r'02_data\branches.csv')
+branches_df.to_csv(r'02_data\branches.csv', index=False)

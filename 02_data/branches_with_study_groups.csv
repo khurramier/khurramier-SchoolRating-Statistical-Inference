@@ -1,0 +1,401 @@
+Unnamed: 0,branch_code,location,student_population,region,establishment_year,size_category,stratum,study_group
+372,B373,rural,71,Sind,2013,small,Sind_rural_small,experimental
+384,B385,rural,85,Sind,2019,small,Sind_rural_small,experimental
+10,B011,rural,100,Sind,2014,small,Sind_rural_small,experimental
+157,B158,rural,62,Sind,2018,small,Sind_rural_small,experimental
+370,B371,rural,63,Punjab,2017,small,Punjab_rural_small,experimental
+213,B214,rural,102,Punjab,2019,small,Punjab_rural_small,experimental
+310,B311,rural,64,Punjab,2017,small,Punjab_rural_small,experimental
+230,B231,rural,123,Punjab,2013,small,Punjab_rural_small,experimental
+352,B353,rural,116,Balochistan,2016,small,Balochistan_rural_small,experimental
+165,B166,rural,148,Balochistan,2018,small,Balochistan_rural_small,experimental
+337,B338,rural,130,Balochistan,2018,small,Balochistan_rural_small,experimental
+227,B228,rural,128,Balochistan,2016,small,Balochistan_rural_small,experimental
+391,B392,rural,130,KPK,2011,small,KPK_rural_small,experimental
+207,B208,rural,134,KPK,2018,small,KPK_rural_small,experimental
+168,B169,rural,91,KPK,2016,small,KPK_rural_small,experimental
+362,B363,urban,484,Sind,2014,large,Sind_urban_large,experimental
+189,B190,urban,326,Sind,2013,large,Sind_urban_large,experimental
+160,B161,urban,496,Sind,2012,large,Sind_urban_large,experimental
+179,B180,rural,157,KPK,2016,medium,KPK_rural_medium,experimental
+272,B273,rural,183,KPK,2010,medium,KPK_rural_medium,experimental
+19,B020,rural,195,KPK,2011,medium,KPK_rural_medium,experimental
+196,B197,urban,285,Balochistan,2011,medium,Balochistan_urban_medium,experimental
+94,B095,urban,198,Balochistan,2018,medium,Balochistan_urban_medium,experimental
+5,B006,urban,393,KPK,2014,large,KPK_urban_large,experimental
+263,B264,urban,419,KPK,2017,large,KPK_urban_large,experimental
+28,B029,rural,185,Sind,2012,medium,Sind_rural_medium,experimental
+221,B222,rural,161,Sind,2016,medium,Sind_rural_medium,experimental
+22,B023,urban,395,Punjab,2011,large,Punjab_urban_large,experimental
+291,B292,urban,419,Punjab,2017,large,Punjab_urban_large,experimental
+14,B015,urban,191,Sind,2016,medium,Sind_urban_medium,experimental
+301,B302,urban,166,Sind,2012,medium,Sind_urban_medium,experimental
+4,B005,rural,199,Punjab,2011,medium,Punjab_rural_medium,experimental
+24,B025,rural,173,Punjab,2018,medium,Punjab_rural_medium,experimental
+71,B072,urban,243,KPK,2018,medium,KPK_urban_medium,experimental
+76,B077,urban,251,KPK,2017,medium,KPK_urban_medium,experimental
+21,B022,urban,314,Balochistan,2018,large,Balochistan_urban_large,experimental
+45,B046,urban,383,Balochistan,2013,large,Balochistan_urban_large,experimental
+72,B073,urban,159,Punjab,2011,medium,Punjab_urban_medium,experimental
+79,B080,urban,198,Punjab,2011,medium,Punjab_urban_medium,experimental
+318,B319,rural,160,Balochistan,2013,medium,Balochistan_rural_medium,experimental
+363,B364,urban,110,KPK,2011,small,KPK_urban_small,experimental
+99,B100,urban,117,Punjab,2019,small,Punjab_urban_small,experimental
+93,B094,urban,116,Balochistan,2014,small,Balochistan_urban_small,experimental
+118,B119,urban,146,Sind,2016,small,Sind_urban_small,experimental
+257,B258,rural,62,Balochistan,2018,small,Balochistan_rural_small,experimental
+52,B053,rural,100,KPK,2017,small,KPK_rural_small,experimental
+288,B289,urban,472,Balochistan,2018,large,Balochistan_urban_large,experimental
+208,B209,urban,414,Sind,2010,large,Sind_urban_large,experimental
+66,B067,urban,445,Sind,2012,large,Sind_urban_large,experimental
+375,B376,urban,227,Punjab,2019,medium,Punjab_urban_medium,experimental
+233,B234,rural,129,Sind,2015,small,Sind_rural_small,control
+260,B261,rural,83,Sind,2017,small,Sind_rural_small,control
+323,B324,rural,60,Sind,2010,small,Sind_rural_small,control
+321,B322,rural,141,Sind,2019,small,Sind_rural_small,control
+344,B345,rural,67,Punjab,2012,small,Punjab_rural_small,control
+239,B240,rural,71,Punjab,2015,small,Punjab_rural_small,control
+162,B163,rural,125,Punjab,2016,small,Punjab_rural_small,control
+305,B306,rural,87,Punjab,2010,small,Punjab_rural_small,control
+108,B109,rural,106,Balochistan,2013,small,Balochistan_rural_small,control
+159,B160,rural,111,Balochistan,2018,small,Balochistan_rural_small,control
+109,B110,rural,57,Balochistan,2012,small,Balochistan_rural_small,control
+343,B344,rural,79,Balochistan,2017,small,Balochistan_rural_small,control
+130,B131,rural,125,KPK,2012,small,KPK_rural_small,control
+222,B223,rural,134,KPK,2011,small,KPK_rural_small,control
+6,B007,rural,107,KPK,2018,small,KPK_rural_small,control
+104,B105,urban,492,Sind,2015,large,Sind_urban_large,control
+225,B226,urban,434,Sind,2012,large,Sind_urban_large,control
+15,B016,urban,363,Sind,2012,large,Sind_urban_large,control
+50,B051,rural,152,KPK,2017,medium,KPK_rural_medium,control
+264,B265,rural,158,KPK,2014,medium,KPK_rural_medium,control
+200,B201,rural,190,KPK,2012,medium,KPK_rural_medium,control
+8,B009,urban,287,Balochistan,2012,medium,Balochistan_urban_medium,control
+276,B277,urban,217,Balochistan,2012,medium,Balochistan_urban_medium,control
+17,B018,urban,487,KPK,2015,large,KPK_urban_large,control
+348,B349,urban,365,KPK,2012,large,KPK_urban_large,control
+35,B036,rural,150,Sind,2012,medium,Sind_rural_medium,control
+368,B369,rural,169,Sind,2016,medium,Sind_rural_medium,control
+33,B034,urban,315,Punjab,2012,large,Punjab_urban_large,control
+139,B140,urban,424,Punjab,2013,large,Punjab_urban_large,control
+39,B040,urban,278,Sind,2016,medium,Sind_urban_medium,control
+69,B070,urban,228,Sind,2018,medium,Sind_urban_medium,control
+292,B293,rural,154,Punjab,2012,medium,Punjab_rural_medium,control
+303,B304,rural,160,Punjab,2010,medium,Punjab_rural_medium,control
+283,B284,urban,271,KPK,2017,medium,KPK_urban_medium,control
+336,B337,urban,255,KPK,2014,medium,KPK_urban_medium,control
+277,B278,urban,324,Balochistan,2010,large,Balochistan_urban_large,control
+357,B358,urban,499,Balochistan,2013,large,Balochistan_urban_large,control
+334,B335,urban,297,Punjab,2017,medium,Punjab_urban_medium,control
+324,B325,urban,200,Punjab,2019,medium,Punjab_urban_medium,control
+341,B342,rural,172,Balochistan,2012,medium,Balochistan_rural_medium,control
+193,B194,urban,111,KPK,2017,small,KPK_urban_small,control
+105,B106,urban,138,Punjab,2019,small,Punjab_urban_small,control
+203,B204,urban,109,Balochistan,2011,small,Balochistan_urban_small,control
+394,B395,urban,124,Sind,2012,small,Sind_urban_small,control
+238,B239,rural,54,KPK,2019,small,KPK_rural_small,control
+199,B200,rural,194,Punjab,2010,medium,Punjab_rural_medium,control
+146,B147,rural,84,Sind,2010,small,Sind_rural_small,control
+262,B263,urban,200,KPK,2013,medium,KPK_urban_medium,control
+85,B086,rural,194,Balochistan,2010,medium,Balochistan_rural_medium,control
+16,B017,urban,180,Balochistan,2011,medium,Balochistan_urban_medium,control
+0,B001,rural,142,Sind,2017,small,Sind_rural_small,not selected
+1,B002,rural,70,Sind,2019,small,Sind_rural_small,not selected
+2,B003,rural,124,Sind,2017,small,Sind_rural_small,not selected
+3,B004,rural,149,Balochistan,2017,small,Balochistan_rural_small,not selected
+7,B008,rural,108,Sind,2019,small,Sind_rural_small,not selected
+9,B010,urban,154,Balochistan,2018,medium,Balochistan_urban_medium,not selected
+11,B012,rural,67,Balochistan,2018,small,Balochistan_rural_small,not selected
+12,B013,urban,113,KPK,2019,small,KPK_urban_small,not selected
+13,B014,rural,139,Punjab,2011,small,Punjab_rural_small,not selected
+18,B019,urban,205,Balochistan,2015,medium,Balochistan_urban_medium,not selected
+20,B021,urban,369,Sind,2017,large,Sind_urban_large,not selected
+23,B024,rural,102,Balochistan,2019,small,Balochistan_rural_small,not selected
+25,B026,rural,64,Punjab,2010,small,Punjab_rural_small,not selected
+26,B027,rural,120,Punjab,2017,small,Punjab_rural_small,not selected
+27,B028,rural,185,Balochistan,2012,medium,Balochistan_rural_medium,not selected
+29,B030,rural,172,Punjab,2019,medium,Punjab_rural_medium,not selected
+30,B031,rural,90,Balochistan,2016,small,Balochistan_rural_small,not selected
+31,B032,rural,121,Balochistan,2011,small,Balochistan_rural_small,not selected
+32,B033,rural,97,Sind,2016,small,Sind_rural_small,not selected
+34,B035,urban,459,KPK,2012,large,KPK_urban_large,not selected
+36,B037,rural,54,KPK,2016,small,KPK_rural_small,not selected
+37,B038,rural,191,Sind,2018,medium,Sind_rural_medium,not selected
+38,B039,rural,64,KPK,2019,small,KPK_rural_small,not selected
+40,B041,rural,101,Punjab,2013,small,Punjab_rural_small,not selected
+41,B042,urban,330,Punjab,2013,large,Punjab_urban_large,not selected
+42,B043,rural,120,Sind,2012,small,Sind_rural_small,not selected
+43,B044,urban,383,KPK,2019,large,KPK_urban_large,not selected
+44,B045,rural,111,Punjab,2014,small,Punjab_rural_small,not selected
+46,B047,urban,430,Balochistan,2019,large,Balochistan_urban_large,not selected
+47,B048,rural,141,Punjab,2016,small,Punjab_rural_small,not selected
+48,B049,urban,324,Punjab,2018,large,Punjab_urban_large,not selected
+49,B050,rural,170,Balochistan,2018,medium,Balochistan_rural_medium,not selected
+51,B052,rural,186,KPK,2014,medium,KPK_rural_medium,not selected
+53,B054,rural,108,KPK,2017,small,KPK_rural_small,not selected
+54,B055,rural,162,KPK,2010,medium,KPK_rural_medium,not selected
+55,B056,urban,151,Balochistan,2016,medium,Balochistan_urban_medium,not selected
+56,B057,urban,486,Punjab,2014,large,Punjab_urban_large,not selected
+57,B058,rural,130,Sind,2010,small,Sind_rural_small,not selected
+58,B059,urban,229,Balochistan,2015,medium,Balochistan_urban_medium,not selected
+59,B060,rural,178,Sind,2011,medium,Sind_rural_medium,not selected
+60,B061,rural,117,Sind,2017,small,Sind_rural_small,not selected
+61,B062,rural,194,Sind,2015,medium,Sind_rural_medium,not selected
+62,B063,urban,424,Balochistan,2011,large,Balochistan_urban_large,not selected
+63,B064,urban,494,Sind,2010,large,Sind_urban_large,not selected
+64,B065,rural,173,Sind,2015,medium,Sind_rural_medium,not selected
+65,B066,urban,448,Sind,2013,large,Sind_urban_large,not selected
+67,B068,urban,451,Sind,2013,large,Sind_urban_large,not selected
+68,B069,rural,177,Sind,2011,medium,Sind_rural_medium,not selected
+70,B071,rural,91,Sind,2016,small,Sind_rural_small,not selected
+73,B074,rural,97,KPK,2014,small,KPK_rural_small,not selected
+74,B075,rural,58,Punjab,2012,small,Punjab_rural_small,not selected
+75,B076,rural,97,Balochistan,2012,small,Balochistan_rural_small,not selected
+77,B078,rural,165,Sind,2010,medium,Sind_rural_medium,not selected
+78,B079,urban,203,Balochistan,2012,medium,Balochistan_urban_medium,not selected
+80,B081,urban,465,KPK,2011,large,KPK_urban_large,not selected
+81,B082,urban,262,Balochistan,2018,medium,Balochistan_urban_medium,not selected
+82,B083,urban,260,Balochistan,2010,medium,Balochistan_urban_medium,not selected
+83,B084,urban,376,Balochistan,2013,large,Balochistan_urban_large,not selected
+84,B085,urban,483,Balochistan,2016,large,Balochistan_urban_large,not selected
+86,B087,urban,470,KPK,2016,large,KPK_urban_large,not selected
+87,B088,urban,337,KPK,2015,large,KPK_urban_large,not selected
+88,B089,urban,464,Sind,2015,large,Sind_urban_large,not selected
+89,B090,urban,382,Sind,2011,large,Sind_urban_large,not selected
+90,B091,rural,79,Punjab,2010,small,Punjab_rural_small,not selected
+91,B092,rural,110,Balochistan,2012,small,Balochistan_rural_small,not selected
+92,B093,urban,134,Balochistan,2010,small,Balochistan_urban_small,not selected
+95,B096,rural,73,Punjab,2010,small,Punjab_rural_small,not selected
+96,B097,urban,280,Sind,2012,medium,Sind_urban_medium,not selected
+97,B098,urban,215,Sind,2014,medium,Sind_urban_medium,not selected
+98,B099,urban,260,Balochistan,2012,medium,Balochistan_urban_medium,not selected
+100,B101,rural,103,KPK,2012,small,KPK_rural_small,not selected
+101,B102,urban,273,Balochistan,2011,medium,Balochistan_urban_medium,not selected
+102,B103,urban,441,Sind,2011,large,Sind_urban_large,not selected
+103,B104,rural,179,KPK,2010,medium,KPK_rural_medium,not selected
+106,B107,rural,75,Sind,2011,small,Sind_rural_small,not selected
+107,B108,rural,62,Balochistan,2019,small,Balochistan_rural_small,not selected
+110,B111,rural,192,Balochistan,2011,medium,Balochistan_rural_medium,not selected
+111,B112,urban,387,Sind,2015,large,Sind_urban_large,not selected
+112,B113,rural,112,KPK,2015,small,KPK_rural_small,not selected
+113,B114,urban,157,KPK,2010,medium,KPK_urban_medium,not selected
+114,B115,urban,269,KPK,2015,medium,KPK_urban_medium,not selected
+115,B116,rural,150,Punjab,2017,medium,Punjab_rural_medium,not selected
+116,B117,rural,109,Balochistan,2014,small,Balochistan_rural_small,not selected
+117,B118,rural,55,Punjab,2013,small,Punjab_rural_small,not selected
+119,B120,urban,407,Balochistan,2011,large,Balochistan_urban_large,not selected
+120,B121,urban,205,KPK,2012,medium,KPK_urban_medium,not selected
+121,B122,rural,169,Sind,2012,medium,Sind_rural_medium,not selected
+122,B123,urban,157,Sind,2019,medium,Sind_urban_medium,not selected
+123,B124,rural,166,KPK,2016,medium,KPK_rural_medium,not selected
+124,B125,rural,186,Balochistan,2014,medium,Balochistan_rural_medium,not selected
+125,B126,rural,107,KPK,2010,small,KPK_rural_small,not selected
+126,B127,rural,83,Balochistan,2015,small,Balochistan_rural_small,not selected
+127,B128,urban,188,Balochistan,2014,medium,Balochistan_urban_medium,not selected
+128,B129,rural,65,Punjab,2016,small,Punjab_rural_small,not selected
+129,B130,urban,168,KPK,2016,medium,KPK_urban_medium,not selected
+131,B132,rural,135,Punjab,2014,small,Punjab_rural_small,not selected
+132,B133,rural,143,KPK,2013,small,KPK_rural_small,not selected
+133,B134,rural,193,KPK,2019,medium,KPK_rural_medium,not selected
+134,B135,urban,440,Sind,2013,large,Sind_urban_large,not selected
+135,B136,rural,150,Sind,2019,medium,Sind_rural_medium,not selected
+136,B137,urban,345,Punjab,2013,large,Punjab_urban_large,not selected
+137,B138,urban,279,Sind,2019,medium,Sind_urban_medium,not selected
+138,B139,urban,246,KPK,2010,medium,KPK_urban_medium,not selected
+140,B141,urban,379,Balochistan,2016,large,Balochistan_urban_large,not selected
+141,B142,urban,483,Balochistan,2013,large,Balochistan_urban_large,not selected
+142,B143,urban,495,KPK,2012,large,KPK_urban_large,not selected
+143,B144,urban,132,Punjab,2012,small,Punjab_urban_small,not selected
+144,B145,rural,150,Balochistan,2012,medium,Balochistan_rural_medium,not selected
+145,B146,rural,123,Sind,2011,small,Sind_rural_small,not selected
+147,B148,urban,363,Punjab,2019,large,Punjab_urban_large,not selected
+148,B149,urban,189,KPK,2011,medium,KPK_urban_medium,not selected
+149,B150,rural,154,Sind,2013,medium,Sind_rural_medium,not selected
+150,B151,urban,213,Punjab,2017,medium,Punjab_urban_medium,not selected
+151,B152,urban,316,Punjab,2018,large,Punjab_urban_large,not selected
+152,B153,urban,493,Punjab,2018,large,Punjab_urban_large,not selected
+153,B154,urban,291,Sind,2010,medium,Sind_urban_medium,not selected
+154,B155,rural,85,KPK,2010,small,KPK_rural_small,not selected
+155,B156,rural,145,Balochistan,2016,small,Balochistan_rural_small,not selected
+156,B157,urban,323,Punjab,2010,large,Punjab_urban_large,not selected
+158,B159,rural,154,KPK,2010,medium,KPK_rural_medium,not selected
+161,B162,rural,149,Balochistan,2018,small,Balochistan_rural_small,not selected
+163,B164,urban,305,Sind,2013,large,Sind_urban_large,not selected
+164,B165,rural,160,Balochistan,2014,medium,Balochistan_rural_medium,not selected
+166,B167,urban,478,Punjab,2013,large,Punjab_urban_large,not selected
+167,B168,rural,193,Punjab,2016,medium,Punjab_rural_medium,not selected
+169,B170,urban,322,KPK,2014,large,KPK_urban_large,not selected
+170,B171,rural,124,KPK,2018,small,KPK_rural_small,not selected
+171,B172,urban,352,KPK,2016,large,KPK_urban_large,not selected
+172,B173,urban,240,Balochistan,2019,medium,Balochistan_urban_medium,not selected
+173,B174,rural,76,KPK,2011,small,KPK_rural_small,not selected
+174,B175,rural,78,Punjab,2015,small,Punjab_rural_small,not selected
+175,B176,rural,185,Balochistan,2010,medium,Balochistan_rural_medium,not selected
+176,B177,urban,244,Sind,2016,medium,Sind_urban_medium,not selected
+177,B178,rural,94,Balochistan,2013,small,Balochistan_rural_small,not selected
+178,B179,urban,351,Sind,2012,large,Sind_urban_large,not selected
+180,B181,rural,139,Sind,2016,small,Sind_rural_small,not selected
+181,B182,urban,272,Punjab,2011,medium,Punjab_urban_medium,not selected
+182,B183,urban,225,KPK,2013,medium,KPK_urban_medium,not selected
+183,B184,urban,416,Sind,2018,large,Sind_urban_large,not selected
+184,B185,rural,50,Sind,2018,small,Sind_rural_small,not selected
+185,B186,rural,162,Punjab,2017,medium,Punjab_rural_medium,not selected
+186,B187,rural,166,KPK,2019,medium,KPK_rural_medium,not selected
+187,B188,urban,272,Balochistan,2014,medium,Balochistan_urban_medium,not selected
+188,B189,urban,473,Punjab,2014,large,Punjab_urban_large,not selected
+190,B191,rural,195,Sind,2018,medium,Sind_rural_medium,not selected
+191,B192,rural,63,Sind,2010,small,Sind_rural_small,not selected
+192,B193,rural,103,KPK,2012,small,KPK_rural_small,not selected
+194,B195,urban,255,Punjab,2017,medium,Punjab_urban_medium,not selected
+195,B196,urban,447,Balochistan,2019,large,Balochistan_urban_large,not selected
+197,B198,urban,319,Punjab,2018,large,Punjab_urban_large,not selected
+198,B199,urban,291,Sind,2015,medium,Sind_urban_medium,not selected
+201,B202,rural,183,KPK,2012,medium,KPK_rural_medium,not selected
+202,B203,urban,296,Sind,2018,medium,Sind_urban_medium,not selected
+204,B205,rural,158,Punjab,2016,medium,Punjab_rural_medium,not selected
+205,B206,urban,388,KPK,2010,large,KPK_urban_large,not selected
+206,B207,urban,323,Sind,2010,large,Sind_urban_large,not selected
+209,B210,rural,147,Punjab,2012,small,Punjab_rural_small,not selected
+210,B211,rural,178,Punjab,2016,medium,Punjab_rural_medium,not selected
+211,B212,urban,296,Sind,2014,medium,Sind_urban_medium,not selected
+212,B213,urban,358,Punjab,2016,large,Punjab_urban_large,not selected
+214,B215,urban,182,Punjab,2014,medium,Punjab_urban_medium,not selected
+215,B216,urban,465,Punjab,2012,large,Punjab_urban_large,not selected
+216,B217,rural,53,KPK,2010,small,KPK_rural_small,not selected
+217,B218,rural,81,KPK,2017,small,KPK_rural_small,not selected
+218,B219,rural,167,Sind,2011,medium,Sind_rural_medium,not selected
+219,B220,urban,153,Balochistan,2014,medium,Balochistan_urban_medium,not selected
+220,B221,urban,321,Sind,2018,large,Sind_urban_large,not selected
+223,B224,rural,152,KPK,2011,medium,KPK_rural_medium,not selected
+224,B225,urban,405,KPK,2011,large,KPK_urban_large,not selected
+226,B227,rural,101,Punjab,2015,small,Punjab_rural_small,not selected
+228,B229,urban,150,Punjab,2014,medium,Punjab_urban_medium,not selected
+229,B230,rural,181,KPK,2017,medium,KPK_rural_medium,not selected
+231,B232,urban,168,KPK,2015,medium,KPK_urban_medium,not selected
+232,B233,rural,175,Sind,2012,medium,Sind_rural_medium,not selected
+234,B235,urban,107,Balochistan,2017,small,Balochistan_urban_small,not selected
+235,B236,urban,283,Punjab,2012,medium,Punjab_urban_medium,not selected
+236,B237,urban,294,Sind,2011,medium,Sind_urban_medium,not selected
+237,B238,rural,171,Sind,2012,medium,Sind_rural_medium,not selected
+240,B241,rural,182,Punjab,2019,medium,Punjab_rural_medium,not selected
+241,B242,urban,133,Punjab,2019,small,Punjab_urban_small,not selected
+242,B243,rural,122,KPK,2018,small,KPK_rural_small,not selected
+243,B244,rural,170,KPK,2017,medium,KPK_rural_medium,not selected
+244,B245,urban,206,Sind,2010,medium,Sind_urban_medium,not selected
+245,B246,urban,391,Punjab,2017,large,Punjab_urban_large,not selected
+246,B247,rural,148,Punjab,2013,small,Punjab_rural_small,not selected
+247,B248,rural,96,Sind,2017,small,Sind_rural_small,not selected
+248,B249,urban,113,KPK,2016,small,KPK_urban_small,not selected
+249,B250,urban,315,KPK,2019,large,KPK_urban_large,not selected
+250,B251,urban,286,Balochistan,2012,medium,Balochistan_urban_medium,not selected
+251,B252,rural,52,Sind,2016,small,Sind_rural_small,not selected
+252,B253,urban,462,Sind,2011,large,Sind_urban_large,not selected
+253,B254,urban,393,Sind,2012,large,Sind_urban_large,not selected
+254,B255,rural,168,Punjab,2019,medium,Punjab_rural_medium,not selected
+255,B256,rural,66,Sind,2015,small,Sind_rural_small,not selected
+256,B257,urban,225,Balochistan,2018,medium,Balochistan_urban_medium,not selected
+258,B259,urban,493,Sind,2018,large,Sind_urban_large,not selected
+259,B260,rural,195,Sind,2013,medium,Sind_rural_medium,not selected
+261,B262,urban,468,Balochistan,2012,large,Balochistan_urban_large,not selected
+265,B266,rural,82,Punjab,2015,small,Punjab_rural_small,not selected
+266,B267,rural,119,Sind,2013,small,Sind_rural_small,not selected
+267,B268,urban,430,KPK,2017,large,KPK_urban_large,not selected
+268,B269,rural,186,Sind,2012,medium,Sind_rural_medium,not selected
+269,B270,rural,80,Balochistan,2014,small,Balochistan_rural_small,not selected
+270,B271,urban,322,KPK,2011,large,KPK_urban_large,not selected
+271,B272,urban,319,Sind,2013,large,Sind_urban_large,not selected
+273,B274,urban,161,Punjab,2011,medium,Punjab_urban_medium,not selected
+274,B275,rural,185,KPK,2012,medium,KPK_rural_medium,not selected
+275,B276,rural,93,Punjab,2015,small,Punjab_rural_small,not selected
+278,B279,urban,146,Punjab,2019,small,Punjab_urban_small,not selected
+279,B280,urban,419,KPK,2014,large,KPK_urban_large,not selected
+280,B281,urban,238,Sind,2013,medium,Sind_urban_medium,not selected
+281,B282,rural,52,Punjab,2015,small,Punjab_rural_small,not selected
+282,B283,urban,109,Punjab,2016,small,Punjab_urban_small,not selected
+284,B285,urban,183,Punjab,2014,medium,Punjab_urban_medium,not selected
+285,B286,rural,66,Punjab,2017,small,Punjab_rural_small,not selected
+286,B287,urban,193,Sind,2010,medium,Sind_urban_medium,not selected
+287,B288,rural,111,Balochistan,2011,small,Balochistan_rural_small,not selected
+289,B290,urban,175,Sind,2012,medium,Sind_urban_medium,not selected
+290,B291,rural,89,Balochistan,2015,small,Balochistan_rural_small,not selected
+293,B294,rural,54,Sind,2019,small,Sind_rural_small,not selected
+294,B295,urban,231,Punjab,2019,medium,Punjab_urban_medium,not selected
+295,B296,rural,195,Balochistan,2017,medium,Balochistan_rural_medium,not selected
+296,B297,rural,153,KPK,2012,medium,KPK_rural_medium,not selected
+297,B298,rural,146,Sind,2010,small,Sind_rural_small,not selected
+298,B299,rural,194,Punjab,2016,medium,Punjab_rural_medium,not selected
+299,B300,urban,408,Balochistan,2017,large,Balochistan_urban_large,not selected
+300,B301,rural,88,Sind,2015,small,Sind_rural_small,not selected
+302,B303,urban,141,Balochistan,2013,small,Balochistan_urban_small,not selected
+304,B305,urban,330,Sind,2013,large,Sind_urban_large,not selected
+306,B307,rural,82,KPK,2013,small,KPK_rural_small,not selected
+307,B308,urban,421,KPK,2014,large,KPK_urban_large,not selected
+308,B309,rural,123,Punjab,2015,small,Punjab_rural_small,not selected
+309,B310,urban,496,Sind,2013,large,Sind_urban_large,not selected
+311,B312,rural,96,Balochistan,2011,small,Balochistan_rural_small,not selected
+312,B313,rural,144,Sind,2012,small,Sind_rural_small,not selected
+313,B314,urban,391,KPK,2014,large,KPK_urban_large,not selected
+314,B315,urban,110,KPK,2019,small,KPK_urban_small,not selected
+315,B316,urban,137,KPK,2017,small,KPK_urban_small,not selected
+316,B317,rural,96,KPK,2019,small,KPK_rural_small,not selected
+317,B318,rural,153,KPK,2011,medium,KPK_rural_medium,not selected
+319,B320,urban,423,Punjab,2017,large,Punjab_urban_large,not selected
+320,B321,rural,121,Sind,2019,small,Sind_rural_small,not selected
+322,B323,rural,100,Punjab,2017,small,Punjab_rural_small,not selected
+325,B326,urban,281,Sind,2018,medium,Sind_urban_medium,not selected
+326,B327,rural,112,KPK,2016,small,KPK_rural_small,not selected
+327,B328,rural,192,Punjab,2018,medium,Punjab_rural_medium,not selected
+328,B329,rural,186,KPK,2013,medium,KPK_rural_medium,not selected
+329,B330,rural,166,KPK,2018,medium,KPK_rural_medium,not selected
+330,B331,rural,112,Balochistan,2018,small,Balochistan_rural_small,not selected
+331,B332,urban,174,KPK,2011,medium,KPK_urban_medium,not selected
+332,B333,rural,140,Punjab,2012,small,Punjab_rural_small,not selected
+333,B334,urban,251,Punjab,2016,medium,Punjab_urban_medium,not selected
+335,B336,rural,78,Sind,2015,small,Sind_rural_small,not selected
+338,B339,rural,197,KPK,2015,medium,KPK_rural_medium,not selected
+339,B340,urban,162,Punjab,2017,medium,Punjab_urban_medium,not selected
+340,B341,rural,120,Punjab,2016,small,Punjab_rural_small,not selected
+342,B343,urban,131,KPK,2010,small,KPK_urban_small,not selected
+345,B346,rural,162,KPK,2015,medium,KPK_rural_medium,not selected
+346,B347,rural,112,Balochistan,2010,small,Balochistan_rural_small,not selected
+347,B348,urban,154,Sind,2012,medium,Sind_urban_medium,not selected
+349,B350,urban,261,Balochistan,2010,medium,Balochistan_urban_medium,not selected
+350,B351,rural,104,Balochistan,2011,small,Balochistan_rural_small,not selected
+351,B352,rural,142,Balochistan,2010,small,Balochistan_rural_small,not selected
+353,B354,rural,121,KPK,2018,small,KPK_rural_small,not selected
+354,B355,rural,116,Sind,2010,small,Sind_rural_small,not selected
+355,B356,urban,363,KPK,2012,large,KPK_urban_large,not selected
+356,B357,urban,187,KPK,2017,medium,KPK_urban_medium,not selected
+358,B359,rural,191,Sind,2016,medium,Sind_rural_medium,not selected
+359,B360,urban,106,KPK,2016,small,KPK_urban_small,not selected
+360,B361,rural,134,Sind,2012,small,Sind_rural_small,not selected
+361,B362,urban,384,Balochistan,2011,large,Balochistan_urban_large,not selected
+364,B365,rural,168,Balochistan,2013,medium,Balochistan_rural_medium,not selected
+365,B366,rural,86,KPK,2018,small,KPK_rural_small,not selected
+366,B367,urban,152,Balochistan,2012,medium,Balochistan_urban_medium,not selected
+367,B368,urban,441,Balochistan,2017,large,Balochistan_urban_large,not selected
+369,B370,urban,323,Punjab,2011,large,Punjab_urban_large,not selected
+371,B372,urban,336,Punjab,2016,large,Punjab_urban_large,not selected
+373,B374,urban,128,Punjab,2011,small,Punjab_urban_small,not selected
+374,B375,rural,86,Sind,2015,small,Sind_rural_small,not selected
+376,B377,urban,140,KPK,2011,small,KPK_urban_small,not selected
+377,B378,rural,171,Balochistan,2016,medium,Balochistan_rural_medium,not selected
+378,B379,rural,155,KPK,2014,medium,KPK_rural_medium,not selected
+379,B380,rural,106,Sind,2015,small,Sind_rural_small,not selected
+380,B381,rural,147,Balochistan,2018,small,Balochistan_rural_small,not selected
+381,B382,rural,187,Punjab,2010,medium,Punjab_rural_medium,not selected
+382,B383,urban,289,KPK,2011,medium,KPK_urban_medium,not selected
+383,B384,urban,409,Sind,2010,large,Sind_urban_large,not selected
+385,B386,rural,198,Sind,2017,medium,Sind_rural_medium,not selected
+386,B387,rural,162,Sind,2016,medium,Sind_rural_medium,not selected
+387,B388,urban,326,KPK,2011,large,KPK_urban_large,not selected
+388,B389,rural,160,Balochistan,2015,medium,Balochistan_rural_medium,not selected
+389,B390,urban,168,Balochistan,2010,medium,Balochistan_urban_medium,not selected
+390,B391,urban,135,Sind,2013,small,Sind_urban_small,not selected
+392,B393,rural,122,Punjab,2017,small,Punjab_rural_small,not selected
+393,B394,rural,178,Punjab,2017,medium,Punjab_rural_medium,not selected
+395,B396,rural,157,Balochistan,2012,medium,Balochistan_rural_medium,not selected
+396,B397,urban,201,KPK,2012,medium,KPK_urban_medium,not selected
+397,B398,rural,93,Sind,2010,small,Sind_rural_small,not selected
+398,B399,rural,66,KPK,2018,small,KPK_rural_small,not selected
+399,B400,rural,96,Balochistan,2017,small,Balochistan_rural_small,not selected
